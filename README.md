@@ -1,6 +1,6 @@
 ![image](images/microchip.jpg) 
 
-## %repoDescritpion%
+## mclv 48v 300w an1292
 
 Board Image if any.
 
