@@ -12,8 +12,8 @@ The various dsPIC™ DSC families can be used to demonstrate and develop motor c
 
 | Device |Dual In-Line Module|Source Code |
 | :----------| :----|:----|
-| dsPIC33CK256MP508 [(DS70005349)](https://ww1.microchip.com/downloads/en/DeviceDoc/dsPIC33CK256MP508-Family-Data-Sheet-DS70005349H.pdf)|dsPIC33CK256MP508| [mclv-48v-300w-an1292-dspic33ck256mp508](https://mplab-discover.microchip.com/v1/item/com.microchip.ide.project/com.microchip.subcategories.modules-and-peripherals.analog.adc-modules.adc/com.microchip.mplabx.project.mclv-48v-300w-an1292-dspic33ch512mp508/1.0.0?view=about)    |
-| dsPIC33CH512MP508 | dsPIC33CH512MP508 |[mclv-48v-300w-an1292-dspic33ck256mp508](https://mplab-discover.microchip.com/v1/item/com.microchip.ide.project/com.microchip.subcategories.modules-and-peripherals.analog.adc-modules.adc/com.microchip.mplabx.project.mclv-48v-300w-an1292-dspic33ch512mp508/1.0.0?view=about)|
+| dsPIC33CK256MP508 [(DS70005349)](https://ww1.microchip.com/downloads/en/DeviceDoc/dsPIC33CK256MP508-Family-Data-Sheet-DS70005349H.pdf)|dsPIC33CK256MP508 (EV62P66A)| [mclv-48v-300w-an1292-dspic33ck256mp508](https://mplab-discover.microchip.com/v1/item/com.microchip.ide.project/com.microchip.subcategories.modules-and-peripherals.analog.adc-modules.adc/com.microchip.mplabx.project.mclv-48v-300w-an1292-dspic33ch512mp508/1.0.0?view=about)    |
+| dsPIC33CH512MP508 [(DS70005371D)](https://ww1.microchip.com/downloads/en/DeviceDoc/dsPIC33CH512MP508-Family-Data-Sheet-DS70005371D.pdf) | dsPIC33CH512MP508 (EV76LP31A) |[mclv-48v-300w-an1292-dspic33ck256mp508](https://mplab-discover.microchip.com/v1/item/com.microchip.ide.project/com.microchip.subcategories.modules-and-peripherals.analog.adc-modules.adc/com.microchip.mplabx.project.mclv-48v-300w-an1292-dspic33ch512mp508/1.0.0?view=about)|
 
 </br>
 
